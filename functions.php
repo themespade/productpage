@@ -42,6 +42,9 @@ function productpage_setup() {
 	 */
 	add_theme_support( 'post-thumbnails' );
 
+    // Register image sizes for use in slider
+    add_image_size( 'productpage-product-img',     400, 395, true );
+
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
 		'primary' => esc_html__( 'Primary', 'productpage' ),

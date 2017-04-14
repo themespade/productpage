@@ -60,7 +60,7 @@ if ( !function_exists( 'productpage_front_banner' ) ) :
                             </div>
 
                             <figure class="ts-product-img ts-right">
-                              <?php the_post_thumbnail(); ?>
+                              <?php the_post_thumbnail('productpage-product-img'); ?>
                             </figure>
 
                         </div>
