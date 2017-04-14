@@ -561,14 +561,14 @@ textarea {
 .ts-header .ts-main-navigation li:hover,
 .ts-header .ts-main-navigation li:hover > a,
 .current-menu-item > a {
-	color: #D65108;
+	color: #05b2dc;
 }
 
 .ts-header .ts-main-navigation li ul li a:hover,
 .ts-header .ts-main-navigation li ul li:hover,
 .ts-header .ts-main-navigation li ul li:hover > a,
 ul.sub-menu .current-menu-item > a {
-	color: #D65108;
+	color: #05b2dc;
 }
 
 .ts-main-navigation ul.menu li ul.sub-menu li a {
@@ -576,16 +576,16 @@ ul.sub-menu .current-menu-item > a {
 }
 
 .ts-main-navigation ul.menu li ul.sub-menu li a:hover {
-	background: #D65108;
+	background: #05b2dc;
 	color: #fff;
 }
 
 .ts-main-navigation ul.menu li.current-menu-item > a {
-	color: #D65108;
+	color: #05b2dc;
 }
 
 .ts-main-navigation ul.sub-menu .current-menu-item > a {
-	color: #D65108;
+	color: #05b2dc;
 }
 
 .ts-main-navigation li ul {
@@ -626,7 +626,7 @@ ul.sub-menu .current-menu-item > a {
 
 .menu-item-has-children {
 	padding-right: 12px;
-	color: #D65108;
+	color: #05b2dc;
 }
 
 .menu-item-has-children:after {
